@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Rostchild
 - 👀 I’m interested in backend and web development, and infosec.
-- 🌱 I’m currently learning ruby, js, python, and shellscript. 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning ruby, js, python, and shellscript.
 - 📫 How to reach me: danmcgregorent@net-c.es
